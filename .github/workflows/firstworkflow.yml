@@ -1,8 +1,6 @@
 name: Explore GitHub Components
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -51,3 +49,4 @@ jobs:
     steps:
       - name: Send notification
         run: echo "Build and test complete for $GITHUB_SHA"
+        
