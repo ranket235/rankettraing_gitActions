@@ -1,6 +1,6 @@
 
 
-javapackage com.example.selenium;
+package com.example.selenium;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
