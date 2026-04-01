@@ -1,5 +1,3 @@
-
-
 package com.example.selenium;
 
 import org.junit.jupiter.api.Test;
